@@ -1,5 +1,5 @@
 # SGIPC-Official-Website
-Django REST framework as backend and Angular as frontend.
+Django REST framework as backend and Angular as frontend. ( Official website )
 ## It's an official website so the code is not uploaded here for security purposes. Some Screenshot of the website is included below.
 ## Login Page
 ![Screenshot 2023-10-26 162906](https://github.com/scorpius72/SGIPC-Official-Website/assets/65850447/7df89b8c-1af3-485c-b373-a8419fd3c789)
